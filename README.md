@@ -1,0 +1,2 @@
+# Analyse-conom-trique-des-d-terminants-de-l-acc-s-l-enseignement-sup-rieur
+L’objectif de cette étude est d’examiner l’influence du rendement scolaire (GPA), du capital éducatif des parents (pared) et du statut de l’établissement (public) sur la probabilité qu’un élève ait envie de poursuivre des études supérieures (apply), mesurée sur une échelle ordinale à trois modalités : peu probable, probable, très probable.
